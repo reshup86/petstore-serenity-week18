@@ -1,0 +1,3 @@
+io\swagger\petstore\testbase\TestBase.class
+io\swagger\petstore\testsuite\PetsCRUDTest.class
+io\swagger\petstore\testsuite\UsersCRUDTest.class
